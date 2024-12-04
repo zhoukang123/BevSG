@@ -30,7 +30,7 @@ Install habitat-lab according to [here](https://github.com/facebookresearch/habi
 **Step 3**
 Install the conda environment we provided.
 ```
-conda env create -f SG_Nav.yml
+conda env create -f BevSG_Nav.yml
 ```
 
 **Step 4**
