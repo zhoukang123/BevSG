@@ -13,6 +13,6 @@ relationships, and positional information of objects. This policy leverages the 
 locally collected BEV representations to infer invisible objects.    
 
 # Setup
--*Dependeces*: We use earlier (0.2.2) versions of habitat-sim and habitat-lab. Other related depencese can be found in requirements.txt.  
+- *Dependeces*: We use earlier (0.2.2) versions of habitat-sim and habitat-lab. Other related depencese can be found in requirements.txt.  
 - *Data(MatterPort3D*: Please download the scene dataset and the episode dataset from [habitat-lab/DATASETS.md](https://github.com/facebookresearch/habitat-sim/blob/main/DATASETS.md#matterport3d-mp3d-dataset)  
 Then organize the files as follows:
