@@ -10,7 +10,9 @@ learning that aligns the BEV and language grounding inputs transferring constrai
 knowledge in pre-trained models without other training in the environments. (iii) we design BEV-  
 based view search navigation policy, which encourages representations that encode the semantics,  
 relationships, and positional information of objects. This policy leverages the topological relations of  
-locally collected BEV representations to infer invisible objects.  
-#Setup
+locally collected BEV representations to infer invisible objects.    
+
+# Setup
 dot\{Dependeces}: We use earlier (0.2.2) versions of habitat-sim and habitat-lab. Other related depencese can be found in requirements.txt.  
-dot \{Data(MatterPort3D)}: Please download the scene dataset and the episode dataset from <a href="https://github.com/facebookresearch/habitat-sim/blob/main/DATASETS.md#matterport3d-mp3d-dataset" title=>habitat-lab/DATASETS.md.</a> Then organize the files as follows:
+dot \{Data(MatterPort3D)}: Please download the scene dataset and the episode dataset from [habitat-lab/DATASETS.md](https://github.com/facebookresearch/habitat-sim/blob/main/DATASETS.md#matterport3d-mp3d-dataset)  
+Then organize the files as follows:
